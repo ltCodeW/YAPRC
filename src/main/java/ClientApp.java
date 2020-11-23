@@ -1,8 +1,5 @@
-package Client;
-
-import Client.PRC.RpcClientProxy;
-import Client.service.CalcuService;
-import Client.service.StringService;
+import  RPC.*;
+import service.*;
 
 public class ClientApp {
     public static void main(String[] args) {

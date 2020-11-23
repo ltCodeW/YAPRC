@@ -1,7 +1,5 @@
-package Client.PRC;
+package RPC;
 
-
-import Client.PRC.RemoteInvocationHandler;
 
 import java.lang.reflect.Proxy;
 

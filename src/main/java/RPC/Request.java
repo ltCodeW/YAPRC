@@ -1,4 +1,4 @@
-package Client.PRC;
+package RPC;
 
 import java.io.Serializable;
 

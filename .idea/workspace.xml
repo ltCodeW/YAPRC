@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9a89538d-121f-4066-9b58-7aa81ecca266" name="Default Changelist" comment="" />
+    <list default="true" id="9a89538d-121f-4066-9b58-7aa81ecca266" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/ClientApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ClientApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/PRC/NetTransport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RPC/NetTransport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/PRC/RemoteInvocationHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RPC/RemoteInvocationHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/PRC/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RPC/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/PRC/RpcClientProxy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RPC/RpcClientProxy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/service/CalcuService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/CalcuService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Client/service/StringService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/service/StringService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/PRC/DealRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/PRC/Request.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/PRC/RpcSrverProxy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/ServerApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/service/CalcuService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/service/CalcuServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/service/StringService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Srever/service/StringServiceImp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/ClientApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/PRC/NetTransport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/PRC/RemoteInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/PRC/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/PRC/RpcClientProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/service/CalcuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Client/service/StringService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/YAPRC.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/PRC/DealRequest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/PRC/Request.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/PRC/RpcSrverProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/ServerApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/service/CalcuService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/service/CalcuServiceImp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/service/StringService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Srever/service/StringServiceImp.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +51,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1kDilKCohZHrpjbn6SGh5cbGGQr" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -23,29 +62,34 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/Client/service" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\code\java\YAPRC\src\main\java\Client\service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Client.PRC" />
-    </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="Client" />
       <recent name="PRC" />
     </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Client.PRC" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\code\java\YAPRC\src\main\java\Client\service" />
+    </key>
   </component>
   <component name="RunManager" selected="Application.ClientApp">
     <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Client.ClientApp" />
-      <module name="YAPRC" />
+      <option name="MAIN_CLASS_NAME" value="ClientApp" />
+      <module name="RPCclient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Client.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +99,7 @@
     </configuration>
     <configuration name="ServerApp (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Srever.ServerApp" />
-      <module name="YAPRC" />
+      <module name="RPCclient" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Srever.*" />
@@ -68,10 +112,10 @@
     </configuration>
     <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client.ServerApp" />
-      <module name="YAPRC" />
+      <module name="RPCclient" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Client.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,6 +126,53 @@
     <configuration name="ServerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Srever.ServerApp" />
       <module name="YAPRC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="RPCclient" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="RPCclient" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -107,6 +198,7 @@
       <updated>1605241714420</updated>
       <workItem from="1605241721460" duration="8149000" />
       <workItem from="1605250779705" duration="1567000" />
+      <workItem from="1605252842230" duration="20241000" />
     </task>
     <servers />
   </component>
@@ -114,6 +206,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="2974" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606101533424">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2974" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606101533424" />
     <state x="830" y="272" key="#com.intellij.ide.util.MemberChooser" timestamp="1605246564941">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -122,6 +218,10 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="829" y="479" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605246933600" />
+    <state x="3296" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1606110197373">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3296" y="400" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606110197373" />
     <state x="529" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1605244386264">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -130,42 +230,59 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="805" y="311" key="FileChooserDialogImpl/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605245674582" />
-    <state width="2005" height="376" key="GridCell.Tab.0.bottom" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.0.center" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.0.bottom/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.0.left" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.0.center/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.0.right" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.0.left/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.0.right/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.1.center" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.1.bottom/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.1.center" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.1.left" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.1.center/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.1.left" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
-    <state width="2005" height="376" key="GridCell.Tab.1.right" timestamp="1605252471887">
+    <state width="1877" height="271" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.1.left/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right" timestamp="1606128988110">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="2005" height="376" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605252471887" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1606128988110" />
+    <state width="1877" height="271" key="GridCell.Tab.1.right/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606117735028" />
+    <state x="3021" y="164" key="SettingsEditor" timestamp="1606098377980">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="3021" y="164" key="SettingsEditor/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606098377980" />
     <state x="491" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1605244537227">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="491" y="141" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605244537227" />
+    <state x="3083" y="267" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1606098515480">
+      <screen x="2560" y="0" width="1920" height="1040" />
+    </state>
+    <state x="558" y="285" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605253172440" />
+    <state x="3083" y="267" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606098515480" />
     <state x="2794" y="104" width="1520" height="695" maximized="true" key="dock-window-1" timestamp="1605250525106">
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
@@ -174,58 +291,24 @@
       <screen x="2560" y="0" width="1920" height="1040" />
     </state>
     <state x="2560" y="0" width="1520" height="695" maximized="true" key="dock-window-2/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605250525106" />
-    <state x="434" y="217" key="new project wizard" timestamp="1605245677518">
+    <state x="448" y="209" key="new project wizard" timestamp="1606101240818">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="434" y="217" key="new project wizard/0.0.2048.1112/2560.0.1920.1040@0.0.2048.1112" timestamp="1605245677518" />
+    <state x="448" y="209" key="new project wizard/0.0.2048.1112/2560.0.1920.1040@2560.0.1920.1040" timestamp="1606101240818" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Client/PRC/NetTransport.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
+          <url>file://$PROJECT_DIR$/src/main/java/RPC/NetTransport.java</url>
+          <line>33</line>
+          <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Client/PRC/RemoteInvocationHandler.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Client/PRC/NetTransport.java</url>
-          <line>24</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Srever/PRC/RpcSrverProxy.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Srever/PRC/RpcSrverProxy.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Client/PRC/NetTransport.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/Srever/PRC/DealRequest.java</url>
           <line>22</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Client/PRC/NetTransport.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Srever/PRC/DealRequest.java</url>
-          <line>20</line>
-          <option name="timeStamp" value="10" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Srever/PRC/DealRequest.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="11" />
+          <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
